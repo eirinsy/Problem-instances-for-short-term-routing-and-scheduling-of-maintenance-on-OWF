@@ -1,0 +1,6 @@
+task,cost,duration,size,production,probability
+Repair,5400,4,11,0.15,0.33
+Gearbox,63500,18,32,0,0.10
+Electrics,6300,3,12,0.2,0.33
+Hydraulics,6200,3,14,0.3,0.14
+Blades,38000,10,90,0.05,0.10

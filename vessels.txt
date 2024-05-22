@@ -1,0 +1,4 @@
+name,speed(km/h),cost,capacity
+Achiever,15.74,47622,146
+Windcat,46.30,1133,62
+Attender,40.744,1968,63
